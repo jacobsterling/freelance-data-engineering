@@ -7,8 +7,8 @@ import Footer from "@/components/Footer"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "DataEngineerPro - Freelance Data Engineering Team",
-  description: "Professional data engineering services for your business needs",
+  title: "DataForge - Scalable Data Engineering Solutions",
+  description: "Custom data solutions for manufacturing, fintech, proptech, and blockchain. Automate workflows, simplify reporting, and scale your data systems with confidence.",
 }
 
 export default function RootLayout({

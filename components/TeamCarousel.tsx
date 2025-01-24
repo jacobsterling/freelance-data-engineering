@@ -5,29 +5,11 @@ import { ChevronLeft, ChevronRight } from "lucide-react"
 
 const teamMembers = [
   {
-    name: "Alice Johnson",
-    role: "Lead Data Engineer",
-    image: "/placeholder.svg?height=200&width=200",
-    bio: "Alice has over 10 years of experience in designing and implementing large-scale data pipelines.",
-  },
-  {
-    name: "Bob Smith",
-    role: "Data Architect",
-    image: "/placeholder.svg?height=200&width=200",
-    bio: "Bob specializes in creating efficient data warehouse solutions for enterprise clients.",
-  },
-  {
-    name: "Carol Williams",
-    role: "Machine Learning Engineer",
-    image: "/placeholder.svg?height=200&width=200",
-    bio: "Carol brings expertise in integrating machine learning models into data workflows.",
-  },
-  {
-    name: "David Brown",
-    role: "ETL Specialist",
-    image: "/placeholder.svg?height=200&width=200",
-    bio: "David is an expert in optimizing ETL processes for improved performance and reliability.",
-  },
+    "name": "Jacob",
+    "role": "Lead Data Engineer & AI Specialist",
+    "image": "/placeholder.svg?height=200&width=200",
+    "bio": "Jacob is a data engineer with 2 years of experience in building scalable data solutions and 4 years of Python expertise. He has worked with global companies such as Denso, Ford, Tesco, and Aldi, helping them reduce CO2 emissions in their supply chains during his tenure at Manufacture2030. Currently, he works at SmartCurrencyExchange, specializing in data solutions for property and currency services. As an AI Champion, Jacob stays at the forefront of AI trends and tools, ensuring innovative solutions for his clients."
+  }
 ]
 
 const TeamCarousel = () => {

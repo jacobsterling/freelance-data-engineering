@@ -5,7 +5,7 @@ const Navbar = () => {
     <nav className="bg-slate-950 text-white p-4">
       <div className="container mx-auto flex justify-between items-center">
         <Link href="/" className="text-2xl font-bold">
-          DataEngineerPro
+          DataForge
         </Link>
         <ul className="flex space-x-4">
           <li>
